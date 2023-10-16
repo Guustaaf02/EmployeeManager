@@ -1,0 +1,17 @@
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.exe
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.deps.json
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.runtimeconfig.json
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.dll
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.pdb
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.csproj.AssemblyReference.cache
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.AssemblyInfoInputs.cache
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.AssemblyInfo.cs
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.csproj.CopyComplete
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.dll
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\refint\EmployeeManager.dll
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.pdb
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.genruntimeconfig.cache
+C:\Users\gustavo.priori\Desktop\.NET\EmployeeManager\EmployeeManager\obj\Debug\net6.0\ref\EmployeeManager.dll
